@@ -19,7 +19,7 @@ Visualization: Plot distribution of permuted strategy performances against real 
 get_permutation(ohlc, start_index=0, seed=None)
 Generates a permuted version of OHLC data while preserving key statistical properties.
 
-###Parameters:
+### Parameters:
 
 ohlc: Pandas DataFrame or list of DataFrames with OHLC data
 
@@ -27,7 +27,7 @@ start_index: Index from which to begin permutations (preserves initial data)
 
 seed: Random seed for reproducibility
 
-###Returns:
+### Returns:
 
 Permuted OHLC data with same structure as input
 
