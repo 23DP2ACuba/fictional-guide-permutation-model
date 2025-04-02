@@ -1,6 +1,6 @@
-#Permutation model
+# Permutation model
 
-##Features
+## Features
 OHLC Permutation: Generate statistically similar but time-shuffled market data while preserving:
 
 Open-to-Close relationships
